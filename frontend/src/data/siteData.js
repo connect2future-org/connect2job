@@ -264,7 +264,7 @@ export const testimonials = [
 // CONTACT INFORMATION
 // ============================================
 export const contactInfo = [
-  { icon: 'fas fa-map-marker-alt', label: 'Location', value: 'Mysuru, India' },
+  { icon: 'fas fa-map-marker-alt', label: 'Location', value: '2B, Second Floor, Sunsheer Apartments #80, Garudhachar Layout C Block, Next to Heritage Club North Gate, Vijayanagar 3rd Stage, Mysuru – 570030, Karnataka, India.' },
   { icon: 'fas fa-phone', label: 'Phone', value: '+91 70190 45849' },
   { icon: 'fas fa-envelope', label: 'Email', value: 'hr@connect2future.com' },
   { icon: 'fas fa-clock', label: 'Hours', value: 'Mon - Fri, 9 AM - 6 PM' }

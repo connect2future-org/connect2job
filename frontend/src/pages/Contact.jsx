@@ -440,30 +440,6 @@
 //             </div>
 //           </div>
 //         </div>
-//         <section className="contact-map-section">
-
-//   <h2>Visit Our Office</h2>
-
-//   <p>
-//     We'd love to meet you. Find us at our office in Mysuru.
-//   </p>
-
-//   <div className="map-container">
-
-//     <iframe
-//       title="Connect2Job Location"
-//       src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3898.089358270156!2d76.60613771026166!3d12.309768987897812!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8d5f4a2084adbec9%3A0xf4fcf3522495b959!2sconnect2future!5e0!3m2!1sen!2sin!4v1782841034397!5m2!1sen!2sin"
-//       width="100%"
-//       height="400"
-//       style={{ border: 0 }}
-//       loading="lazy"
-//       allowFullScreen
-//       referrerPolicy="no-referrer-when-downgrade"
-//     ></iframe>
-
-//   </div>
-
-// </section>
 //       </section>
 //     </>
 //   );
@@ -738,8 +714,8 @@ export default function Contact() {
           </p>
           <div className="map-container">
             <iframe
-              title="Connect2Job Location"
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3898.089358270156!2d76.60613771026166!3d12.309768987897812!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8d5f4a2084adbec9%3A0xf4fcf3522495b959!2sconnect2future!5e0!3m2!1sen!2sin!4v1782841034397!5m2!1sen!2sin"
+              title="CONNECT2FUTURE Office Location"
+              src="https://maps.google.com/maps?q=12.3152596,76.603467&hl=en&z=17&output=embed"
               width="100%"
               height="400"
               style={{ border: 0 }}

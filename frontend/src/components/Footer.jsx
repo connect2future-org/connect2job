@@ -109,7 +109,12 @@ export default function Footer() {
           <div className="footer-contact">
             <h4>Contact</h4>
             <ul>
-              <li><MapPin size={18} /> Mysuru, India</li>
+              <li>
+                <MapPin size={18} />
+                <span>
+                  2B, Second Floor, Sunsheer Apartments #80, Garudhachar Layout C Block, Next to Heritage Club North Gate, Vijayanagar 3rd Stage, Mysuru – 570030, Karnataka, India.
+                </span>
+              </li>
               <li><Phone size={18} /> +91 70190 45849</li>
               <li>
                 <Mail size={18} />
